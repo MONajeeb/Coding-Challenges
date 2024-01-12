@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 public class Palindrome
 {
-    public static void Main(string[] args)
-    {
-        Console.WriteLine(IsPalindrome(-1));
-    }
+    //public static void Main(string[] args)
+    //{
+    //    Console.WriteLine(IsPalindrome(-1));
+    //}
         public static bool IsPalindrome(int input)
     {
         int temp = input;
