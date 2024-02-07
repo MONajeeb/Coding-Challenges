@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 public class Romans_To_Integer
 {
 
-    public static void Main(string[] args)
-    {
-        Console.WriteLine(RomanToInt("D"));
-    }
+    //public static void Main(string[] args)
+    //{
+    //    Console.WriteLine(RomanToInt("D"));
+    //}
     public static int RomanToInt(string s)
     {
         int sum = 0;
