@@ -8,10 +8,10 @@ namespace Hour_Glasses_challenge
 {
     public class Valid_Palindrome
     {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine(IsPalindrome("A man, a plan, a canal: Panama"));
-        }
+        //public static void Main(string[] args)
+        //{
+        //    Console.WriteLine(IsPalindrome("A man, a plan, a canal: Panama"));
+        //}
 
         public static bool IsPalindrome(string s)
         {
